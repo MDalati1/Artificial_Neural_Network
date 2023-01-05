@@ -9,7 +9,7 @@ Created on Sat Oct 22 19:10:11 2022
 import pandas as pd
 
 # import the data 
-df = pd.read_csv('/Users/mohamaddalati/Desktop/INSY-662/Assignment3/Sheet4.csv')
+df = pd.read_csv('/Users/mohamaddalati/Desktop/INSY-662/Sheet4.csv')
 
 ###             Task 1: Pre-Process the data 
 ##1. Check if there are any missing values
